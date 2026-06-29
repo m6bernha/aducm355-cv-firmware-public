@@ -36,3 +36,8 @@ capture*.txt
 
 # Local interview prep (never committed)
 INTERVIEW_TALKING_POINTS.md
+
+# Secrets / environment
+.env
+.env.*
+!.env.example
